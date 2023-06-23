@@ -1,0 +1,51 @@
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 45px;
+    color: black;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#produtos{
+    padding: 50px;
+    margin-top: auto;
+}
+.P1{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding: 0%;
+}
+.T1{
+    text-align: center;
+    font-size: 45px;
+    font-family: unset;
+    color: black;
+}
+.sct{
+    border: 15px;
+    border-color: gold;
+    border-style: solid;
+    background-color: #ffc107;
+    padding: auto;
+}
+.butao{
+    padding: auto;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.bloco1{
+    border: 100px;
+    border-left: 6px;
+    border-right: 6px;
+    border-color: white;
+    border-style: solid;
+    background-color: #ffc107;
+    padding: 0px;
+}
